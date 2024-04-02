@@ -63,3 +63,6 @@ try:
     print("matplotlib is available")
 except ModuleNotFoundError:
     print("matplotlib is not available")
+
+
+print("B2 accessable")
